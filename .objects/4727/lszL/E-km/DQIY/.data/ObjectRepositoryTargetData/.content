@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="X3Kyo4lmwkqTvRJ7F7IsYA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/sap/default.html" DesignTimeRectangle="2810, 282, 31, 31" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;header&amp;gt;div&amp;gt;div&amp;gt;button&amp;gt;svg' tag='svg' /&gt;" Guid="88955ad9-82b4-48d1-9eef-44dd4ddbf0b0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAP CRM Cloud Portal' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="86fe11ac9bb4c6900f3c280906fc8390.jpg" xmlns="">0BG8u7OPNt0S9VoLMtimxjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

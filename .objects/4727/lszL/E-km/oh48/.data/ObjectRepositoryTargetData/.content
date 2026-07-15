@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Fl4ltTfqfky60jOORPpvqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/sap/default.html" DesignTimeRectangle="2384, 828, 250, 39" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aaname='Sign Out (Logout)' parentid='userDropdownMenu' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Sign Out (Logout)' /&gt;" Guid="c4d6fa3c-b136-4eae-8f9b-2c16f294497a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAP CRM Cloud Portal' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="2286, 808, 547, 79" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='userDropdownMenu' tag='BUTTON' type='' class='w-full flex items-center space-x-2 px-4 py-2 hover:bg-rose-50 text-rose-600 hover:text-rose-700 font-bold transition-colors text-left' aaname='                                                  Sign Out (Logout)                     ' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Sign Out (Logout)' /&gt;" Guid="b1a8d8dd-d078-4446-8134-8c94c5f6a0e5" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7f5a33b0ddf3d703a50bf311a2086fe0.jpg" xmlns="">04OS7vu9Y10Ke021iy3fe1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

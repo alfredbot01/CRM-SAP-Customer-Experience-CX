@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Cloud Identity Services",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "JThDMXhmH0a1-y6DzX7oOA",
+  "Reference": "j6F-hRcFG0abagB3OCp3Bw/JThDMXhmH0a1-y6DzX7oOA",
+  "ParentRef": "j6F-hRcFG0abagB3OCp3Bw/E-kmtOROXUSznlOlkOEABQ",
+  "Created": "2026-07-10T02:32:31.880856Z",
+  "Updated": "2026-07-10T02:32:31.880856Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

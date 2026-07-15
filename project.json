@@ -1,0 +1,98 @@
+{
+  "name": "CRM",
+  "projectId": "9def7fe2-896e-428a-ad45-4fd40c6f3661",
+  "description": "Test the SAP CRM web app",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Mail.Activities": "[2.10.10]",
+    "UiPath.MicrosoftOffice365.Activities": "[3.10.10]",
+    "UiPath.System.Activities": "[26.6.1]",
+    "UiPath.Testing.Activities": "[25.10.2]",
+    "UiPath.UIAutomation.Activities": "[26.10.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "26.0.197.0",
+  "projectVersion": "1.0.237799447",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "0ff4aa02-47d2-4788-84bf-f9a64799a09e",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Account\\User login fails with invalid credentials.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "ca924123-de1e-4e76-811f-b201d0334177",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Account\\User can logout.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "23fd9844-ec70-42c2-ab4e-aeb61092ab16",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Customers\\User can can create new customer with valid customer info.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "5e859dbf-93b6-45dc-a8b4-d3d495c895ad",
+        "dataVariationFilePath": ".variations\\Test Data_Credentials.json",
+        "testCaseType": "TestCase",
+        "fileName": "Account\\Testing with (Excel Data Variation)\\TC01 - User can login with valid credentials.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "42107a1f-95ff-4d8f-83f9-cdff5b671b59",
+        "dataVariationFilePath": ".variations\\Test Data_Credentials_1.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Account\\Testing with (Excel Data Variation)\\TC02 - User can logout.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "bf526648-1f7f-45f2-9683-3cceed81524d",
+        "dataVariationFilePath": ".variations\\Test Data_Credentials_2.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Account\\Testing with (Excel Data Variation)\\TC03 - User login fails with invalid credentials.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

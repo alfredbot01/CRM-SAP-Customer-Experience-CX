@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tcMK4ce8tEWOf_R9i8tjIA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/sap/default.html" DesignTimeRectangle="1155, 927, 710, 96" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl idx='2' parentid='toastContainer' tag='P' /&gt;" Guid="671a60b6-c276-4c68-a539-3c2295f8418c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAP CRM Cloud Portal' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d434529c35a81cbbc1449aedd3b74e05.jpg" xmlns="">0zeFIrRXLIEG9ILp4OXAJhw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

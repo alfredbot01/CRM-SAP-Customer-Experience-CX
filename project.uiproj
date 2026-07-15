@@ -1,0 +1,6 @@
+{
+  "Name": "CRM",
+  "ProjectType": "Tests",
+  "Description": "Test the SAP CRM web app",
+  "MainFile": "Main.xaml"
+}

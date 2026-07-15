@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rCglfbvYaEurSdubCYQGmA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/sap/default.html" DesignTimeRectangle="761, 669, 1417, 89" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='welcomeBannerName' tag='H1' /&gt;" Guid="823f2d37-7ac4-4285-a0c4-fbd325492c2b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAP CRM Cloud Portal' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d3a3b398de541f09c24b322220482e20.jpg" xmlns="">0PSfi0ZXGk0-2G5el65XAKg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Dismiss & Proceed",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "bKHFLcF5fE-LJowLfBRKYw",
+  "Reference": "j6F-hRcFG0abagB3OCp3Bw/bKHFLcF5fE-LJowLfBRKYw",
+  "ParentRef": "j6F-hRcFG0abagB3OCp3Bw/E-kmtOROXUSznlOlkOEABQ",
+  "Created": "2026-07-10T05:13:25.0212952Z",
+  "Updated": "2026-07-10T05:13:25.0212952Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

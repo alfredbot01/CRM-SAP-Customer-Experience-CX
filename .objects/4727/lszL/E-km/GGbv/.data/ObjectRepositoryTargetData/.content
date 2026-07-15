@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oN6WdqpH7k-CnW6i8KswLQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/sap/default.html" DesignTimeRectangle="2437, 349, 398, 79" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aaname='                                              Marcus Vance                         Sales Director                                          MV                                      ' tag='BUTTON' type='' class='flex items-center space-x-3 border-l border-slate-700 pl-4 focus:outline-none hover:opacity-90 transition-all' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Marcus Vance&amp;#xA;&amp;#xA;Sales Director&amp;#xA;&amp;#xA;MV' /&gt;" Guid="bf40e418-f2d2-49a4-a9b0-2017175e47cc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAP CRM Cloud Portal' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="2478, 351, 185, 39" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='headerUserName' tag='P' type='' class='text-xs font-semibold text-white' aaname='Marcus Vance' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Marcus Vance' /&gt;" Guid="c13c967e-25e2-403b-ba37-6607ce5acb28" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4830696b6db29ebfd3ad324f373fc216.jpg" xmlns="">0P8DntUrXhE-QHuhZJkMLnA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

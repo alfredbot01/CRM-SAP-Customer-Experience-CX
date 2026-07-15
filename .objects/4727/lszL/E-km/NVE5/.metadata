@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Global Sales Operations…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "NVE5awtdbUmgGAa6HGdFkw",
+  "Reference": "j6F-hRcFG0abagB3OCp3Bw/NVE5awtdbUmgGAa6HGdFkw",
+  "ParentRef": "j6F-hRcFG0abagB3OCp3Bw/E-kmtOROXUSznlOlkOEABQ",
+  "Created": "2026-07-10T03:14:24.4209833Z",
+  "Updated": "2026-07-10T03:14:24.4209833Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
